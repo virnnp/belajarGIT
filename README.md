@@ -358,3 +358,31 @@ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/virnnp/belajarGIT
    ce0c52b..313ffd7  main -> main
    
+
+ACER@LAPTOP-NALNC862 MINGW64 ~/belajarGIT/belajarGIT (main)
+$ git add README.md
+
+ACER@LAPTOP-NALNC862 MINGW64 ~/belajarGIT/belajarGIT (main)
+$ git commit -m "Menambahkan daftar perintah GiT"
+[main 49dfd35] Menambahkan daftar perintah GiT
+ 1 file changed, 350 insertions(+)
+
+ACER@LAPTOP-NALNC862 MINGW64 ~/belajarGIT/belajarGIT (main)
+$ git push origin --all
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 1.87 KiB | 958.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/virnnp/belajarGIT
+   313ffd7..49dfd35  main -> main
+ * [new branch]      Tugas-css -> Tugas-css
+ * [new branch]      Tugas-finalProject -> Tugas-finalProject
+ * [new branch]      Tugas-git -> Tugas-git
+ * [new branch]      Tugas-html -> Tugas-html
+ * [new branch]      Tugas-js -> Tugas-js
+ * [new branch]      Tugas-midProject -> Tugas-midProject
+ * [new branch]      Tugas-php -> Tugas-php
+
